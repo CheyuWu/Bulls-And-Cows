@@ -13,7 +13,7 @@ This project implements the classic Bulls and Cows game optimized with CUDA to l
 
 - CMake (version 3.18 or higher)  
 - NVIDIA CUDA Toolkit installed  
-- Compatible NVIDIA GPUs (at least 2 for dual-GPU usage)  
+- Compatible NVIDIA GPUs (at least 1 for dual-GPU usage)  
 - C++17 compatible compiler  
 
 ---
