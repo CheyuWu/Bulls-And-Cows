@@ -1,0 +1,21 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Default indentation
+indent_style = space
+indent_size = 4
+
+[*.{cpp,h,cuh,cu,hpp}]
+indent_style = space
+indent_size = 4
+insert_final_newline = true
+end_of_line = lf
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false
